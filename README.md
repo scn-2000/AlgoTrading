@@ -11,5 +11,7 @@ I worked on many (over 20) strategies - I have uploaded 4 of them.
 
 For every strategy there is a .txt file that explains the strategy and a .py (or.ipynb) file that has the code in it.
 
+I have also uploaded one example of the output (Excel file: "output_strategy_1_example") the algorithm creates. I just added, back then, some colors and layout to this document.
+
 Thank you for taking a look into this, 
 Samuel
