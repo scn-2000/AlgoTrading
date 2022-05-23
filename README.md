@@ -9,4 +9,7 @@ In this repo you find an Excel document with the S&P500 tickers (this are the ti
 
 I worked on many (over 20) strategies - I have uploaded 4 of them.
 
-For every strategy there is a .txt file that explains the strategy and a .py (or.ipynb) file.
+For every strategy there is a .txt file that explains the strategy and a .py (or.ipynb) file that has the code in it.
+
+Thank you for taking a look into this, 
+Samuel
